@@ -2,7 +2,7 @@
 
 ## About Me
 
-Mechanical / Maintenance Engineer transitioning into Data Analytics with experience in manufacturing operations, maintenance KPI monitoring, and operational reporting.
+Mechanical / Maintenance / Automation Engineer transitioning into Data Analytics with experience in manufacturing operations, maintenance KPI monitoring, and operational reporting.
 
 Currently learning and building practical skills in:
 
@@ -76,7 +76,29 @@ Analyzed boilerman operational performance and related parameters within industr
 
 ---
 
-## 2. Maintenance Job Count & Repair Time Analysis (Porite Malaysia)
+## 2. Boiler efficiency and shift performance (SD Guthrie International Langat Refinery)
+
+### Project Overview
+
+Analyzed maintenance job frequency and repair duration trends to understand operational workload and maintenance efficiency.
+
+### Key Contributions
+
+* Job count analysis
+* Repair duration analysis
+* Trend identification
+* Maintenance KPI observation
+
+### Skills Used
+
+* Excel
+* Data Organization
+* Maintenance KPI Analysis
+* Manufacturing Operations
+
+---
+
+## 3. Maintenance Job Count & Repair Time Analysis (Porite Malaysia)
 
 ### Project Overview
 
@@ -108,7 +130,7 @@ I am currently strengthening my technical skills in:
 * Manufacturing analytics
 
 Target:
-Transition into a Junior Data Analyst / Reporting Analyst role before October 2026.
+Transition into a Junior Data Analyst / Reporting Analyst role before September 2026.
 
 ---
 
@@ -127,7 +149,7 @@ Planned upcoming projects:
 
 ## LinkedIn
 
-(Insert your LinkedIn URL here)
+[My Profile](https://www.linkedin.com/in/izham-shah-hamdan-5aabb4166/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLLzmI20HRxuY1iSr39dZng%3D%3D)
 
 ## GitHub
 
