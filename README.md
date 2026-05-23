@@ -54,7 +54,7 @@ Currently learning:
 
 # Featured Projects
 
-## 1. Master's Project — THE RELATIONSHIP OF DESIGN THINKING WITH 21ST CENTURY LEARNING SKILLS AMONGST STUDENTS OF ENGINEERING PROGRAMS IN MALAYSIA POLYTECHNICS (Universiti Teknologi Malaysia,)
+## 1. Master's Project — THE RELATIONSHIP OF DESIGN THINKING WITH 21ST CENTURY LEARNING SKILLS AMONGST STUDENTS OF ENGINEERING PROGRAMS IN MALAYSIA POLYTECHNICS (Universiti Teknologi Malaysia,2021)
 
 ### Project Overview
 
@@ -62,7 +62,7 @@ Investigate whether Design Thinking process correlates with 21st century learnin
 
 ### Key Contributions
 
-* Data collection and analysis consists of 335 respondent
+* Data collection and analysis consists of 337 respondent
 * Likert-scale questionnaire
 * Operational efficiency observations
 
@@ -88,7 +88,7 @@ TVET institutions may improve employability skills by integrating Design Thinkin
 * Data visualisation:
 
 
-* Paper [https://github.com/ejam96/Data_Analyst_Portfolio/blob/31d993a66613e8d669d008fe77e5ede7285f5e12/Article_Thesis_IzhamShah_MPP191024.pdf] 
+* [Article](https://github.com/ejam96/Data_Analyst_Portfolio/blob/31d993a66613e8d669d008fe77e5ede7285f5e12/Article_Thesis_IzhamShah_MPP191024.pdf)
 
 ---
 
