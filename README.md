@@ -169,4 +169,4 @@ Planned upcoming projects:
 
 ## GitHub
 
-(Insert your GitHub URL here)
+[Portfolio](https://ejam96.github.io/Data_Analyst_Portfolio/)
