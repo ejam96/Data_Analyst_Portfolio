@@ -50,7 +50,7 @@ Currently learning:
 * Data Cleaning
 * Interactive Reporting
 
----
+===
 
 # Featured Projects
 
@@ -86,9 +86,19 @@ TVET institutions may improve employability skills by integrating Design Thinkin
 ### Summary of Thesis
 
 * Data visualisation:
-![](Related Diagram/21st century Skills level.png)
 
-* [Article](Related Diagram/Article_Thesis_IzhamShah_MPP191024.pdf)
+#### Bar Chart of 21st Century Skills level among Polythecnics Students
+![](Related Diagram/21st century Skills level.png)
+The highest level is collaboration skills, while the lowest level is critical thinking. All dimensions is above 70%.
+
+![](Related Diagram/21st century Skills level Distribution.png)
+Most of the students are still in medium level of critical thinking.
+
+#### Bar Chart of 21st Century Skills level among Polythecnics Students
+![](Related Diagram/21st century Skills level.png)
+The highest level is collaboration skills, while the lowest level is critical thinking. All dimensions is above 70%.
+
+* My [Article](Related Diagram/Article_Thesis_IzhamShah_MPP191024.pdf)
 
 ---
 
@@ -96,7 +106,7 @@ TVET institutions may improve employability skills by integrating Design Thinkin
 
 ### Project Overview
 
-Analyzed boilerman operational performance and related parameters within industrial plant operations.
+Analyzed boiler production and plant steam consumption to calculate cost saving and evaluate shift cost saving as boilerman KPI.
 
 ### Key Contributions
 
@@ -111,6 +121,10 @@ Analyzed boilerman operational performance and related parameters within industr
 * Data Analysis
 * Technical Reporting
 * Industrial Operations Understanding
+
+### Summary of Analysis
+
+
 
 ---
 
