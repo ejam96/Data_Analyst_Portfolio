@@ -54,7 +54,7 @@ Currently learning:
 
 # Featured Projects
 
-## 1. Master's Project — THE RELATIONSHIP OF DESIGN THINKING WITH 21ST CENTURY LEARNING SKILLS AMONGST STUDENTS OF ENGINEERING PROGRAMS IN MALAYSIA POLYTECHNICS (Universiti Teknologi Malaysia,2021)
+## 1. Master's Project — The Relationship of Design Thinking with 21st Century Learning Skills Amongst Students of Engineering Programs in Malaysia Polytechnics  (Universiti Teknologi Malaysia,2021)
 
 ### Project Overview
 
@@ -92,21 +92,21 @@ TVET institutions may improve employability skills by integrating Design Thinkin
 *The highest level is collaboration skills, while the lowest level is critical thinking. All dimensions is above 70%.*<br>
 <br>
 ![](Related Diagram/21st century Skills level Distribution.png)<br>
-Most of the students are still in medium level of critical thinking, which improvement can be made to ensure high employability.<br>
+*Most of the students are still in medium level of critical thinking, which improvement can be made to ensure high employability.*<br>
 <br>
 
 #### Bar Chart of Design Thinking level among Polythecnics Students
 ![](Related Diagram/Design Thinking level.png)<br>
-The highest score is the implementation on emphatic process, while the lowest one is prototype process. All dimensions is above 74%.<br>
+*The highest score is the implementation on emphatic process, while the lowest one is prototype process. All dimensions is above 74%.*<br>
 <br>
 ![](Related Diagram/Design Thinking level distribution.png)<br>
-Most of the student has high udnerstanding on how to run emphatic process in Design Thinking.<br>
+*Most of the student has high udnerstanding on how to run emphatic process in Design Thinking.*<br>
 <br>
 * My [Article](Related Diagram/Article_Thesis_IzhamShah_MPP191024.pdf)
 
 ---
 
-## 2. Boiler efficiency and shift performance (SD Guthrie International Langat Refinery)
+## 2. Boiler efficiency and shift performance (SD Guthrie International Langat Refinery,2021-2022)
 
 ### Project Overview
 
@@ -125,6 +125,9 @@ Analyzed boiler production and plant steam consumption to calculate cost saving 
 * Data Analysis
 * Technical Reporting
 * Industrial Operations Understanding
+
+### Key Findings
+* Critical thinking skills scored only medium level, but still satisfactory.
 
 ### Summary of Analysis
 
