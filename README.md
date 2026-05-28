@@ -89,14 +89,25 @@ TVET institutions may improve employability skills by integrating Design Thinkin
 
 #### Bar Chart of 21st Century Skills level among Polythecnics Students
 ![](Related Diagram/21st century Skills level.png)
+
 The highest level is collaboration skills, while the lowest level is critical thinking. All dimensions is above 70%.
+
 
 ![](Related Diagram/21st century Skills level Distribution.png)
+
 Most of the students are still in medium level of critical thinking.
 
-#### Bar Chart of 21st Century Skills level among Polythecnics Students
-![](Related Diagram/21st century Skills level.png)
+
+#### Bar Chart of Design Thinking level among Polythecnics Students
+![](Related Diagram/Design Thinking level.png)
+
 The highest level is collaboration skills, while the lowest level is critical thinking. All dimensions is above 70%.
+
+
+![](Related Diagram/Design Thinking level.png)
+
+The highest level is collaboration skills, while the lowest level is critical thinking. All dimensions is above 70%.
+
 
 * My [Article](Related Diagram/Article_Thesis_IzhamShah_MPP191024.pdf)
 
